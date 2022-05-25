@@ -6,19 +6,46 @@ My name is Chris, I'm a technology entrepreneur from Kitchener, ON. I currently 
 dedicated to doing amazing things for a very few special clients. If you are interested in joining us have a look
 [here](https://harled.ca/careers).
 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-<h3 align="left" style="margin-top: 3rem">Things I Love:</h3>
-<p align="left" style="font-size: 2rem;"> 
-  <i class="devicon-rails-plain colored"></i>
-  <i class="devicon-ruby-plain colored"></i>
-  <i class="devicon-html5-plain colored"></i>
-  <i class="devicon-git-plain colored" ></i>
-  <i class="devicon-digitalocean-plain colored"></i>
-  <i class="devicon-css3-plain colored"></i>
-  <i class="devicon-linux-plain colored"></i>
-  <i class="devicon-docker-plain colored"></i>
-</p>
+<h3 align="left" style="margin-top: 3rem">Recent Projects:</h3>
 
+* **[Matey](https://github.com/harled/matey)** - A ruby gem to make it easy to track user engagement metrics from your Ahoy-enabled Ruby on Rails app.
+
+
+<h3 align="left" style="margin-top: 3rem">Things I Love:</h3>
+<p align="left">
+  <a href="https://www.ruby-lang.org/en/">
+    <img height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain.svg" />
+  </a>
+
+  <a href="https://rubyonrails.org/">
+    <img height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" />
+  </a>
+
+  <a href="https://www.w3.org/html/">          
+    <img height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  </a>
+
+  <a href="https://git-scm.com/">
+    <img height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  </a>
+
+  <a href="https://www.digitalocean.com/">
+    <img height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" />
+  </a>
+
+  <a href="https://www.w3schools.com/css/">
+    <img height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+    </a>
+
+  <a href="https://www.linux.org/">        
+    <img height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+    </a>
+
+  <a href="https://www.docker.com">        
+    <img height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+  </a>
+</p>
+          
 <h3 style="margin-top: 2rem;">My latest thinking</h3>
 <ul>
   <li><a href="https://harled.ca/blog/technical_interviews_with_harled"><b> Technical Interviews with Harled</b></a><br/>
@@ -38,9 +65,9 @@ dedicated to doing amazing things for a very few special clients. If you are int
 <h3 align="left" style="margin-top: 3rem;">Connect with me:</h3>
 <p align="left" style="font-size: 2rem;">
   <a href="https://www.linkedin.com/in/christopher-c-young/" target="blank">
-    <i class="devicon-linkedin-plain colored"></i>
+    <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
   </a>
   <a href="https://twitter.com/harledhes" target="blank">
-    <i class="devicon-twitter-original colored"></i>
+    <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" />
   </a>
 </p>
