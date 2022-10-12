@@ -4,9 +4,11 @@ This document exists thanks to a talk given by Alex Witherspoon to the #digitalA
 is to create a document that explains myself the world of work. Basically to humanize myself, something 
 I'd like to avoid :-) It probably also doubles as a way to explain myself to ... myself ...
 
+I've blogged about my take on this in more detail on [why Harled values Human User Guides](https://harled.ca/blog/why_we_value_human_user_guides).
+
 ## About Me
 
-I live in Kitchener, ON. I'm a father of two. I used to play a lot of fastpitch softball (and pretty much any other type of softball). I love baseball hats. I also used to skateboard. 
+I live in Kitchener, ON. I'm a father of three. I used to play a lot of fastpitch softball (and pretty much any other type of softball). I love baseball hats. I also used to skateboard. 
 
 I have always loved computers. This career choice has never felt like work. I feel like I'm an introvert who can manage myself to be social as necessary. I still like to play PC games with friends.
 
@@ -26,7 +28,7 @@ I believe in:
 
 I like chatting, mentoring and problem solving. I don't like (don't excel) at typical "HR" style 1:1s.
 If I forget to ask you how you are doing, it isn't because I don't care (I promise you that I do), it 
-is because I'm so excited to get down to the hard business. A weakness I need to overcome.
+is because I'm so excited to get down to the technical stuff. A weakness I need to overcome.
 
 I appreciate when you come to a meeting with a topic and have clearly invested some time into solving /
 evaluating it on your own.
@@ -66,6 +68,11 @@ Feel free to PR here to:
 a) let me know something I've got wrong
 b) let me know something else that is overwhelmingly me that I've missed!
 
+## Things That *Really* Bug Me
+
+1. Having to ask twice.
+2. Preaching without action.
+3. Poor communication.
 
 ## Other Thoughts
 
@@ -74,8 +81,10 @@ my take and how I evaluate the progression of an individual over time. Academic 
 junior level of understanding (even if very deep) and opinionated representing the most senior level 
 of understanding.
 
-When interviewing with me, I LOVE to see somebody being opinionated.
+When interviewing with me, I LOVE to see somebody being opinionated. Take a stance and back it up.
 
-Academic - something that has been studied, learned from books for videos and is conceptually understood.
-Experiential - something that has been done, in a meaningful context.
-Opinionated - something that has been done many times, many ways and a strong opinion has been formed.
+**Academic** - something that has been studied, learned from books for videos and is conceptually understood.
+
+**Experiential** - something that has been done, in a meaningful context.
+
+**Opinionated** - something that has been done many times, many ways and a strong opinion has been formed.
