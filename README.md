@@ -2,13 +2,21 @@
 
 ---
 
-My name is Chris, I'm a technology entrepreneur from Kitchener, ON. I currently lead a pretty awesome team who is 
-dedicated to doing amazing things for a very few special clients. If you are interested in joining us have a look
-[here](https://harled.ca/careers).
+My name is Chris, I'm a technology entrepreneur from Kitchener, ON. I'm the Principal at [Harled Inc](https://harled.ca), a small bug mighty company 
+dedicated to doing amazing things for a few very special clients.
+
+If you would like to hire us, let us know what you are doing and how it is [going to change the world](https://harled.ca/home/contact)!
+
+If you are interested in joining us, have a look at our open positions [here](https://harled.ca/careers) and learn more about how we work on the [Harled blog](https://harled.ca/blog).
+
+If you want to learn even more about me, have a look at my [Human User Guide](https://github.com/krsyoung/krsyoung/blob/main/HUG.md)! If you don't have one, you might want to read [this post](https://harled.ca/blog/why_we_value_human_user_guides) on why I think
+they are really valuable.
 
 <h3 align="left" style="margin-top: 3rem">Recent Projects:</h3>
 
 * **[Matey](https://github.com/harled/matey)** - A ruby gem to make it easy to track user engagement metrics from your Ahoy-enabled Ruby on Rails app.
+* **[Rails Docker](https://github.com/harled/rails-docker)** - Really helpful images for running secure, production Ruby on Rails applications.
+* **[Docker Puppeteer](https://github.com/harled/docker-puppeteer)** - Run Puppeteer in Docker to generate PDFs from HTML pages.
 
 
 <h3 align="left" style="margin-top: 3rem">Things I Love:</h3>
