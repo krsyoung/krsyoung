@@ -1,8 +1,8 @@
 ## What is this?
 
-This document exists thanks to a talk given by Alex Witherspoon to the #digitalAF team in 2021. The idea 
+This document exists thanks to a talk arranged by [Tim Bartram](https://ca.linkedin.com/in/tim-bartram), given by [Alex Witherspoon](https://alexwitherspoon.com/) to the [#digitalAF]([https://digitalaf.ca/](https://digitalaf.ca/certified.html)). The idea 
 is to create a document that explains myself the world of work. Basically to humanize myself, something 
-I'd like to avoid :-) It probably also doubles as a way to explain myself to ... myself ...
+I'd like to avoid :-) It probably also doubles as a way to explain myself to ... myself!
 
 I've blogged about my take on this in more detail on [why Harled values Human User Guides](https://harled.ca/blog/why_we_value_human_user_guides).
 
@@ -10,7 +10,7 @@ I've blogged about my take on this in more detail on [why Harled values Human Us
 
 I live in Kitchener, ON. I'm a father of three. I used to play a lot of fastpitch softball (and pretty much any other type of softball). I love baseball hats. I also used to skateboard. 
 
-I have always loved computers. This career choice has never felt like work. I feel like I'm an introvert who can manage myself to be social as necessary. I still like to play (old) PC games with (old) friends.
+I have always loved computers. This career choice has never felt like work. I feel like I'm an introvert who can manage myself to be social as necessary although it takes a great deal of energy. I still like to play (old) PC games with (old) friends.
 
 ## Personal Principles and Values
 
@@ -22,7 +22,7 @@ I believe in:
 4. Acting as a team, delivering as a team and celebrating as a team. Each member must lift the team up.
 5. I expect a lot of you, but I'll never expect more of you than I expect of myself.
 6. Digging deep when necessary but avoiding it whenever possible.
-7. Leaders should lead by doing and setting the bar.
+7. Leaders should lead and set the bar by doing.
 
 ## One-on-ones
 
@@ -31,7 +31,7 @@ If I forget to ask you how you are doing, it isn't because I don't care (I do), 
 is because I'm excited to get down to the business/technical stuff. A weakness I struggle to overcome.
 
 I appreciate when you come to a meeting with a topic and have clearly invested time into solving /
-evaluating it on your own. It is obvious when you have done this.
+evaluating it on your own. It is always obvious when this has been done.
 
 I have a lot of opinions. They are just that.
 
@@ -39,7 +39,7 @@ I have a lot of opinions. They are just that.
 
 I like it when I'm not the only one talking. I like learning interesting things from other people. I 
 need somebody to help me share the floor (an awkward silence gets me every time). I lived in NY for long 
-enough that I will happily overtalk you and think nothing of it.
+enough that I will happily overtalk you and think nothing of it. I like passion in conversation and debate.
 
 I like it when teams work in the open and show considerations for working in a remote and diverse environment. 
 Inclusion and participation is the only path.
@@ -61,7 +61,7 @@ Mac OS 7, Hyperstack, Fedora, PHP, DB2, bash, perl, OpenSUSE, RHEL, SLES, z/VM, 
 
 ## Things That *Really* Bug Me
 
-1. Having to ask twice.
+1. Having to ask twice (it is annoying for everyone involved).
 2. Preaching without action.
 3. Poor communication.
 
